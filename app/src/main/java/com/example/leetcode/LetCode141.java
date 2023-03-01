@@ -1,5 +1,7 @@
 package com.example.leetcode;
 
+import com.example.common.ListNode;
+
 public class LetCode141 {
 
     /**

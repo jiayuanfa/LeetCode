@@ -1,5 +1,7 @@
 package com.example.leetcode;
 
+import com.example.common.ListNode;
+
 import java.util.ArrayList;
 import java.util.List;
 

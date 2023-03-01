@@ -1,14 +1,14 @@
-package com.example.leetcode;
+package com.example.common;
 
 import java.util.List;
 
 public class ListNode {
     int val;
-    ListNode next;
+    public ListNode next;
     ListNode() {
 
     }
-    ListNode(int val) {
+    public ListNode(int val) {
         this.val = val;
     }
     ListNode(int val, ListNode next) {
