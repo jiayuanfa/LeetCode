@@ -20,4 +20,8 @@
 - 中序遍历
 - 后序遍历
 
-# LeetCode200 岛屿数量（深度优先搜索） https://leetcode.cn/problems/number-of-islands/ 
+# LeetCode200 岛屿数量（深度优先搜索） https://leetcode.cn/problems/number-of-islands/
+# LeetCode51 回溯算法求N皇后 https://leetcode.cn/problems/n-queens/
+# LeetCode55 跳跃游戏 https://leetcode.cn/problems/jump-game/
+# LeetCode860 柠檬水找零问题 https://leetcode.cn/problems/lemonade-change/
+# LeetCode122 买卖股票的最佳时机 https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/
